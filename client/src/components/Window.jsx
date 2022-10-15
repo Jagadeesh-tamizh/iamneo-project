@@ -20,7 +20,7 @@ const Window = ({ show, person, onClose, item }) => {
       <div>
         <h2>Candidate name</h2>
         <p>{item.person}</p>
-        <h2>Description</h2>
+        <h2>Role</h2>
         <p>{item.content}</p>
         <h2>Status</h2>
         <p>
