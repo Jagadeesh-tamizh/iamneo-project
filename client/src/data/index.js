@@ -6,7 +6,7 @@ const data = [
     status: "Open",
     title: "Human Interest Form",
     college: "RMK college of engineering and technology",
-    content: "Frontend developer",
+    content: "Full stack developer",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const data = [
     status: "Open",
     title: "Purchase present",
     college: "SRM engineering college",
-    content: "Backend developer",
+    content: "Frontend developer",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const data = [
     status: "Open",
     title: "Invest in investments",
     college: "Panimalar engineering college",
-    content: "Fullstack developer",
+    content: "Backend developer",
   },
   {
     id: 4,
