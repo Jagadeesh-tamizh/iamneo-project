@@ -6,7 +6,7 @@ const data = [
     status: "Open",
     title: "Human Interest Form",
     college: "RMK college of engineering and technology",
-    content: "Fill out human interest distribution form",
+    content: "Frontend developer",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const data = [
     status: "Open",
     title: "Purchase present",
     college: "SRM engineering college",
-    content: "Get an anniversary gift",
+    content: "Backend developer",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const data = [
     status: "Open",
     title: "Invest in investments",
     college: "Panimalar engineering college",
-    content: "Call the bank to talk about investments",
+    content: "Fullstack developer",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const data = [
     status: "Open",
     title: "Daily reading",
     college: "P.S.G enineering college",
-    content: "Finish reading Intro to UI/UX",
+    content: "Test engineer",
   },
 ];
 
