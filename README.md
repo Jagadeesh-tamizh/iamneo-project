@@ -1,8 +1,8 @@
 
 # IamNeo.AI Talent center
 
-- [IamNeo.ai-talent-center](https://iamneoai-talentcenter-beta.netlify.app/)
-A easier way to analyse the current details of various candidates and their descriptions.
+- [🚀IamNeo.ai-talent-center](https://iamneoai-talentcenter-beta.netlify.app/)
+- A easier way to analyse the current details of various candidates and their descriptions.
 
 
 ## Appendix
