@@ -229,6 +229,7 @@ select {
 
 .window-header {
   background-color: wheat;
+  margin-left: 2rem;
   text-align: center;
   font-family: monospace;
   border: 2px solid;
