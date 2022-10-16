@@ -81,7 +81,7 @@ Start the server
 
 - 🔧Currently deep down in **Data structures and Algorithms**
 
-- 🌱 I’m currently learning **ReactNative **
+- 🌱 I’m currently learning **ReactNative**
 
 - 🤝 I’m looking to collaborate on **ReactJS projects**
 
