@@ -4,7 +4,6 @@ import Modal from "react-modal";
 Modal.setAppElement("#app");
 
 const Window = ({ show, person, onClose, item }) => {
-  
   return (
     <Modal
       isOpen={show}
