@@ -76,19 +76,6 @@ Start the server
 ```
 
 
-## 🚀 About Me
-
-
-- 🔧Currently deep down in **Data structures and Algorithms**
-
-- 🌱 I’m currently learning **ReactNative**
-
-- 🤝 I’m looking to collaborate on **ReactJS projects**
-
-- 📄 Connect with me on LinkedIn
-
-- ✨ Intellectual
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
