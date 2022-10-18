@@ -40,7 +40,7 @@
 
 **Client:** ReactJs
 
-**Package manager:** npm
+**Package Manager:** npm
 
 **Hosting:** Netlify
 
