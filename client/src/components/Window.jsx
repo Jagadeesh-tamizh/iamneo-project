@@ -31,7 +31,7 @@ const Window = ({ show, person, onClose, item }) => {
         <h2>Status</h2>
         <div className="candidate-details">
           <p>
-            {item.icon}{" "}
+            {item.icon}{"  "}
             {`${item.status.charAt(0).toUpperCase()}${item.status.slice(1)}`}
           </p>
         </div>
