@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
 :root {
   --primary-color: rgb(62, 100, 255);
   --complete-color: #27aa80;
@@ -23,8 +23,11 @@ body {
   color: var(--text-color);
   font-family: sans-serif;
   margin: 0;
+  background-color: transparent;
+}
 
-  /* background-image: url("background.jpg"); */
+.MuiBox-root {
+  background-image: transparent;
 }
 
 a {
@@ -91,6 +94,7 @@ select {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  background-color: transparent;
 }
 
 .item {
@@ -232,7 +236,7 @@ select {
   background-color: wheat;
   margin-left: 2rem;
   text-align: center;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Roboto Mono", monospace;
   border: 2px solid;
   padding: 1rem;
   margin-top: 3rem;
