@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 :root {
   --primary-color: rgb(62, 100, 255);
   --complete-color: #27aa80;
@@ -231,7 +232,7 @@ select {
   background-color: wheat;
   margin-left: 2rem;
   text-align: center;
-  font-family: monospace;
+  font-family: 'Roboto Mono', monospace;
   border: 2px solid;
   padding: 1rem;
   margin-top: 3rem;
